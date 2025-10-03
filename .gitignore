@@ -130,3 +130,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Folder
+arquivos/
